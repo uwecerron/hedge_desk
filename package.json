@@ -1,0 +1,8 @@
+{
+  "name": "hedge-desk-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Compute-cost hedging advisor agent (Node, zero-dep, Vercel serverless)",
+  "engines": { "node": ">=18" }
+}
